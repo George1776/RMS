@@ -7,20 +7,14 @@
     <script src="js/controllers.js"></script>    
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" type="text/css" href="css/modules.css">
 </head>
 <body class="FullPage">
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs);} (document, 'script', 'facebook-jssdk'));</script>
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
     <div id="MainCanvass" class="FullPage">
         <a href="index.html#/home"><img id="MainBanner" src="img/path8383.png" /></a>
-        <div class="fb-like" data-href="https://www.facebook.com/RationalMusicStudios" data-send="false" data-width="450" data-show-faces="false" data-font="arial"></div>
+        <div class="facebook-like" data-href="https://www.facebook.com/RationalMusicStudios" data-send="false" data-width="450" data-show-faces="false" data-font="arial"></div>
         <hr />
         <div ng-view></div>
     </div>
