@@ -27,8 +27,8 @@ hr {
     background-image:      -o-linear-gradient(left, #ccc, #d40000, #ccc); 
 }
 
-h1 { font-size: 20px; }
+h1 { font-size: 20px; line-height: normal; margin-top: -10px; }
 
-#left_col { margin-top: 20px; padding: 10px; border-right: 1px solid #d40000; height: 300px; }
-#middle_col { margin-top: 20px; padding: 10px; border-right: 1px solid #d30000; height: 300px; }
-#right_col { margin-top: 20px; padding: 10px; height: 300px; }
+#left_col { margin-top: 20px; padding: 0px 10px 10px 10px; border-right: 1px solid #d40000; height: 300px; }
+#middle_col { margin-top: 20px; padding: 0px 10px 10px 10px; border-right: 1px solid #d30000; height: 300px; }
+#right_col { margin-top: 20px; padding: 0px 10px 10px 10px; height: 300px; }
