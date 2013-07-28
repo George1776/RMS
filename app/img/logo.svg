@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8591">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1;"
+         offset="0"
+         id="stop8593" />
+      <stop
+         style="stop-color:#d40000;stop-opacity:0;"
+         offset="1"
+         id="stop8595" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8563">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop8565" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop8567" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8541">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop8543" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop8545" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8527">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop8529" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop8531" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8492">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop8494" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop8496" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8486"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8488" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8439">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop8441" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop8443" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8391">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop8393" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop8395" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8343">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop8345" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop8347" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8301">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1;"
+         offset="0"
+         id="stop8303" />
+      <stop
+         style="stop-color:#d40000;stop-opacity:0;"
+         offset="1"
+         id="stop8305" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6839">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.75213677;"
+         offset="0"
+         id="stop6849" />
+      <stop
+         style="stop-color:#d40000;stop-opacity:0;"
+         offset="1"
+         id="stop6843" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6761"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b40000;stop-opacity:1;"
+         offset="0"
+         id="stop6763" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5405">
+      <stop
+         style="stop-color:#0000e3;stop-opacity:0.82905984;"
+         offset="0"
+         id="stop5463" />
+      <stop
+         style="stop-color:#000bf8;stop-opacity:0.95726496;"
+         offset="1"
+         id="stop5461" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5393">
+      <stop
+         id="stop5395"
+         offset="0"
+         style="stop-color:#000097;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0.74901961;"
+         offset="0.25"
+         id="stop5397" />
+      <stop
+         id="stop5399"
+         offset="0.375"
+         style="stop-color:#000097;stop-opacity:0.62352941;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop5401" />
+      <stop
+         id="stop5403"
+         offset="1"
+         style="stop-color:#000097;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5381">
+      <stop
+         style="stop-color:#000097;stop-opacity:1;"
+         offset="0"
+         id="stop5383" />
+      <stop
+         id="stop5385"
+         offset="0.25"
+         style="stop-color:#000097;stop-opacity:0.74901961;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0.62352941;"
+         offset="0.375"
+         id="stop5387" />
+      <stop
+         id="stop5389"
+         offset="0.5"
+         style="stop-color:#000097;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0;"
+         offset="1"
+         id="stop5391" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5369">
+      <stop
+         id="stop5371"
+         offset="0"
+         style="stop-color:#000097;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0.74901961;"
+         offset="0.25"
+         id="stop5373" />
+      <stop
+         id="stop5375"
+         offset="0.375"
+         style="stop-color:#000097;stop-opacity:0.62352941;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop5377" />
+      <stop
+         id="stop5379"
+         offset="1"
+         style="stop-color:#000097;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5355">
+      <stop
+         style="stop-color:#000097;stop-opacity:1;"
+         offset="0"
+         id="stop5357" />
+      <stop
+         id="stop5365"
+         offset="0.25"
+         style="stop-color:#000097;stop-opacity:0.74901961;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0.62352941;"
+         offset="0.375"
+         id="stop5367" />
+      <stop
+         id="stop5363"
+         offset="0.5"
+         style="stop-color:#000097;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#000097;stop-opacity:0;"
+         offset="1"
+         id="stop5359" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5285"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000097;stop-opacity:1;"
+         offset="0"
+         id="stop5287" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6761"
+       id="linearGradient6811"
+       gradientUnits="userSpaceOnUse"
+       x1="458.6975"
+       y1="531.62948"
+       x2="619.9965"
+       y2="531.62948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8301"
+       id="linearGradient8317"
+       gradientUnits="userSpaceOnUse"
+       x1="177.17239"
+       y1="786.70892"
+       x2="367.99179"
+       y2="786.70892" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8343"
+       id="linearGradient8349"
+       x1="79.224403"
+       y1="596.93652"
+       x2="312.42175"
+       y2="596.93652"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8301"
+       id="linearGradient8387"
+       gradientUnits="userSpaceOnUse"
+       x1="177.17239"
+       y1="786.70892"
+       x2="367.99179"
+       y2="786.70892" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6761"
+       id="linearGradient8389"
+       gradientUnits="userSpaceOnUse"
+       x1="458.6975"
+       y1="531.62948"
+       x2="619.9965"
+       y2="531.62948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8391"
+       id="linearGradient8397"
+       x1="79.224403"
+       y1="596.93652"
+       x2="312.42175"
+       y2="596.93652"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6761"
+       id="linearGradient8437"
+       gradientUnits="userSpaceOnUse"
+       x1="458.6975"
+       y1="531.62948"
+       x2="619.9965"
+       y2="531.62948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8439"
+       id="linearGradient8445"
+       x1="318.89761"
+       y1="1742.0565"
+       x2="334.10888"
+       y2="1742.0565"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8439"
+       id="linearGradient8447"
+       x1="459.1975"
+       y1="531.62948"
+       x2="619.4965"
+       y2="531.62948"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8439"
+       id="linearGradient8449"
+       x1="205.99214"
+       y1="1506.8596"
+       x2="243.88014"
+       y2="1506.8596"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8492"
+       id="linearGradient8498"
+       x1="101.10201"
+       y1="1624.8118"
+       x2="352.19523"
+       y2="1624.8118"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8492"
+       id="linearGradient8502"
+       gradientUnits="userSpaceOnUse"
+       x1="101.10201"
+       y1="1624.8118"
+       x2="352.19523"
+       y2="1624.8118" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8492"
+       id="linearGradient8508"
+       gradientUnits="userSpaceOnUse"
+       x1="101.10201"
+       y1="1624.8118"
+       x2="352.19523"
+       y2="1624.8118" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8492"
+       id="linearGradient8510"
+       gradientUnits="userSpaceOnUse"
+       x1="101.10201"
+       y1="1624.8118"
+       x2="352.19523"
+       y2="1624.8118" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8492"
+       id="linearGradient8512"
+       gradientUnits="userSpaceOnUse"
+       x1="101.10201"
+       y1="1624.8118"
+       x2="352.19523"
+       y2="1624.8118" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8527"
+       id="linearGradient8533"
+       x1="318.89761"
+       y1="1742.0565"
+       x2="334.10888"
+       y2="1742.0565"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8527"
+       id="linearGradient8535"
+       x1="459.1975"
+       y1="531.62948"
+       x2="619.4965"
+       y2="531.62948"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8527"
+       id="linearGradient8537"
+       x1="205.99214"
+       y1="1506.8596"
+       x2="243.88014"
+       y2="1506.8596"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8541"
+       id="linearGradient8547"
+       x1="79.224403"
+       y1="596.93652"
+       x2="312.42175"
+       y2="596.93652"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8563"
+       id="linearGradient8569"
+       x1="79.094131"
+       y1="596.93652"
+       x2="312.55202"
+       y2="596.93652"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8591"
+       id="linearGradient8597"
+       x1="79.094131"
+       y1="596.93652"
+       x2="312.55202"
+       y2="596.93652"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0034568"
+     inkscape:cx="464.4439"
+     inkscape:cy="-179.66064"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="1388"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(1.0938212,0,0,1.1277005,-59.291991,955.76457)"
+       d="m 311.92175,596.93652 a 116.09867,112.61073 0 1 1 -232.197347,0 116.09867,112.61073 0 1 1 232.197347,0 z"
+       sodipodi:ry="112.61073"
+       sodipodi:rx="116.09867"
+       sodipodi:cy="596.93652"
+       sodipodi:cx="195.82307"
+       id="path8553"
+       style="opacity:0.11637932;fill:#ffffff;fill-opacity:0.96888888;fill-rule:nonzero;stroke:url(#linearGradient8569);stroke-width:1.26054394;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="700"
+           height="217.14285"
+           x="20"
+           y="12.362183" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="-inkscape-font-specification:Optima;font-family:Optima;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:64px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowSpan
+           style="fill:#000080"
+           id="flowSpan2995">rational</flowSpan><flowSpan
+           style="fill:#d40000"
+           id="flowSpan2993">music</flowSpan><flowSpan
+           style="fill:#000080"
+           id="flowSpan3001">.com</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3003"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3005"><rect
+           id="rect3007"
+           width="591.95374"
+           height="89.689957"
+           x="13.951772"
+           y="22.920767" /></flowRegion><flowPara
+         id="flowPara3009" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20.927656"
+       y="127.55905"
+       id="text3011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         x="20.927656"
+         y="127.55905" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3019"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3021"><rect
+           id="rect3023"
+           width="5.9793305"
+           height="88.693405"
+           x="148.48671"
+           y="126.5625" /></flowRegion><flowPara
+         id="flowPara3025" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3027"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3029"><rect
+           id="rect3031"
+           width="401.61169"
+           height="122.57628"
+           x="18.934547"
+           y="66.769188" /></flowRegion><flowPara
+         id="flowPara3033" /></flowRoot>    <rect
+       style="fill:#000097;fill-opacity:0.96888888;fill-rule:nonzero;opacity:1"
+       id="rect3823"
+       width="543.1225"
+       height="81.717514"
+       x="2.9896638"
+       y="214.25934" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3825"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Optima;font-style:normal;font-weight:normal;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Optima;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3827"><rect
+           id="rect3829"
+           width="571.02606"
+           height="92.679626"
+           x="-14.948326"
+           y="150.47981" /></flowRegion><flowPara
+         id="flowPara3831" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans"
+       x="18.934546"
+       y="274.05264"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="18.934546"
+         y="274.05264"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Optima;-inkscape-font-specification:Optima"><tspan
+           style="fill:#f9f9f9"
+           id="tspan3833">rational</tspan><tspan
+           style="fill:#d40000"
+           id="tspan3035">music</tspan><tspan
+           style="fill:#ececec"
+           id="tspan3835">.com</tspan></tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:0.96888888;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       id="path5482"
+       sodipodi:cx="195.82307"
+       sodipodi:cy="596.93652"
+       sodipodi:rx="116.09867"
+       sodipodi:ry="112.61073"
+       d="m 311.92175,596.93652 a 116.09867,112.61073 0 1 1 -232.197347,0 116.09867,112.61073 0 1 1 232.197347,0 z"
+       transform="matrix(1.0766704,0,0,1.1100185,-66.902362,-208.61207)" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       x="120.59004"
+       y="353.77713"
+       id="text5484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5486"
+         x="120.59004"
+         y="353.77713">C</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5488"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       transform="translate(-403.60482,43.848422)"><flowRegion
+         id="flowRegion5490"><rect
+           id="rect5492"
+           width="937.75836"
+           height="121.57974"
+           x="453.43256"
+           y="494.29132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:122.00000286%;font-family:Optima;-inkscape-font-specification:Optima" /></flowRegion><flowPara
+         id="flowPara5494">F# / G</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Accidentals;-inkscape-font-specification:Accidentals"
+       x="231.20078"
+       y="584.97784"
+       id="text3175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3177"
+         x="231.20078"
+         y="584.97784">b</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5474"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       transform="translate(-15.944883,36.872547)"><flowRegion
+         id="flowRegion5476"><rect
+           id="rect5478"
+           width="655.73322"
+           height="107.62794"
+           x="44.844978"
+           y="379.6875" /></flowRegion><flowPara
+         id="flowPara5480">Rational Music Studios</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.875984,479.343 c 658.722926,0 657.726376,0.99655 657.726376,0.99655 l -0.99656,0 0,0"
+       id="path3179"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1.0766704,0,0,1.1100185,49.694586,125.23389)"
+       d="m 311.92175,596.93652 a 116.09867,112.61073 0 1 1 -232.197347,0 116.09867,112.61073 0 1 1 232.197347,0 z"
+       sodipodi:ry="112.61073"
+       sodipodi:rx="116.09867"
+       sodipodi:cy="596.93652"
+       sodipodi:cx="195.82307"
+       id="path6145"
+       style="opacity:0.68103448;fill:url(#linearGradient8349);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-opacity:0.80888890999999985"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6147"
+       y="687.62311"
+       x="237.187"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.30172414;fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       xml:space="preserve"><tspan
+         y="687.62311"
+         x="237.187"
+         id="tspan6149"
+         sodipodi:role="line"
+         style="fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none">C</tspan></text>
+    <flowRoot
+       transform="translate(-282.02511,369.72195)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286000000926%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.30172414;fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       id="flowRoot6151"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6153"
+         style="fill:url(#linearGradient8317);fill-opacity:1;stroke:url(#linearGradient6811)"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:122.00000286000000926%;fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+           y="494.29132"
+           x="453.43256"
+           height="121.57974"
+           width="937.75836"
+           id="rect6155" /></flowRegion><flowPara
+         id="flowPara6157"
+         style="fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none">F# / G</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text6159"
+       y="910.85132"
+       x="352.78052"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.30172414;fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Accidentals;-inkscape-font-specification:Accidentals"
+       xml:space="preserve"><tspan
+         y="910.85132"
+         x="352.78052"
+         id="tspan6161"
+         sodipodi:role="line"
+         style="fill:#fc0000;fill-opacity:1;fill-rule:nonzero;stroke:none">b</tspan></text>
+    <flowRoot
+       transform="translate(15.944881,367.72884)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       id="flowRoot6163"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6165"><rect
+           y="379.6875"
+           x="44.844978"
+           height="107.62794"
+           width="655.73322"
+           id="rect6167" /></flowRegion><flowPara
+         id="flowPara6169"><flowSpan
+           style="fill:#000080"
+           id="flowSpan6687">Rational</flowSpan><flowSpan
+           style="fill:#d40000"
+           id="flowSpan6173"> Music</flowSpan><flowSpan
+           style="fill:#000080"
+           id="flowSpan6685"> Studios</flowSpan></flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6171"
+       d="m 67.765748,810.1993 c 658.722922,0 657.726372,0.99655 657.726372,0.99655 l -0.99656,0 0,0"
+       style="fill:#000080;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.20689655;fill:url(#linearGradient8397);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-opacity:0.80888892999999984"
+       id="path8351"
+       sodipodi:cx="195.82307"
+       sodipodi:cy="596.93652"
+       sodipodi:rx="116.09867"
+       sodipodi:ry="112.61073"
+       d="m 311.92175,596.93652 a 116.09867,112.61073 0 1 1 -232.197347,0 116.09867,112.61073 0 1 1 232.197347,0 z"
+       transform="matrix(1.0766704,0,0,1.1100185,21.791043,605.57345)" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.12931034;fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       x="209.28346"
+       y="1167.9626"
+       id="text8353"
+       sodipodi:linespacing="125%"><tspan
+         style="fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none"
+         sodipodi:role="line"
+         id="tspan8355"
+         x="209.28346"
+         y="1167.9626">C</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8357"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286000003769%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.12931034;fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       transform="translate(-309.92866,850.06151)"><flowRegion
+         style="fill:url(#linearGradient8387);fill-opacity:1;stroke:url(#linearGradient8389)"
+         id="flowRegion8359"><rect
+           id="rect8361"
+           width="937.75836"
+           height="121.57974"
+           x="453.43256"
+           y="494.29132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:122.00000286000003769%;fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima" /></flowRegion><flowPara
+         style="fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none"
+         id="flowPara8363">F# / G</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.12931034;fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none;font-family:Accidentals;-inkscape-font-specification:Accidentals"
+       x="324.87695"
+       y="1391.1909"
+       id="text8365"
+       sodipodi:linespacing="125%"><tspan
+         style="fill:#000000;fill-opacity:0.62222224000000004;fill-rule:nonzero;stroke:none"
+         sodipodi:role="line"
+         id="tspan8367"
+         x="324.87695"
+         y="1391.1909">b</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8369"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       transform="translate(-11.958662,848.0684)"><flowRegion
+         id="flowRegion8371"><rect
+           id="rect8373"
+           width="655.73322"
+           height="107.62794"
+           x="44.844978"
+           y="379.6875" /></flowRegion><flowPara
+         id="flowPara8375"><flowSpan
+           id="flowSpan8377"
+           style="fill:#000080">Rational</flowSpan><flowSpan
+           id="flowSpan8379"
+           style="fill:#d40000"> Music</flowSpan><flowSpan
+           id="flowSpan8381"
+           style="fill:#000080"> Studios</flowSpan></flowPara></flowRoot>    <path
+       style="fill:#000080;stroke:none"
+       d="m 39.862205,1290.5389 c 658.722915,0 657.726365,0.9966 657.726365,0.9966 l -0.99656,0 0,0"
+       id="path8383"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1.0766704,0,0,1.1100185,17.497474,965.82999)"
+       d="m 311.92175,596.93652 a 116.09867,112.61073 0 1 1 -232.197347,0 116.09867,112.61073 0 1 1 232.197347,0 z"
+       sodipodi:ry="112.61073"
+       sodipodi:rx="116.09867"
+       sodipodi:cy="596.93652"
+       sodipodi:cx="195.82307"
+       id="path8399"
+       style="opacity:0.38362068;fill:url(#linearGradient8547);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-opacity:0.80888893"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8401"
+       y="1528.7156"
+       x="203.30414"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.66379310999999996;fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       xml:space="preserve"><tspan
+         y="1528.7156"
+         x="203.30414"
+         id="tspan8403"
+         sodipodi:role="line"
+         style="fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none">C</tspan></text>
+    <flowRoot
+       transform="translate(-315.90799,1210.8145)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286000003769%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.66379310999999996;fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       id="flowRoot8405"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8407"
+         style="fill:url(#linearGradient8535);fill-opacity:1;stroke:url(#linearGradient8437)"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:122.00000286000003769%;fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+           y="494.29132"
+           x="453.43256"
+           height="121.57974"
+           width="937.75836"
+           id="rect8409" /></flowRegion><flowPara
+         id="flowPara8411"
+         style="fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none">F# / G</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text8413"
+       y="1751.9438"
+       x="318.89761"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.66379310999999996;fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none;font-family:Accidentals;-inkscape-font-specification:Accidentals"
+       xml:space="preserve"><tspan
+         y="1751.9438"
+         x="318.89761"
+         id="tspan8415"
+         sodipodi:role="line"
+         style="fill:#000080;fill-opacity:0.60888886;fill-rule:nonzero;stroke:none">b</tspan></text>
+    <flowRoot
+       transform="translate(-17.937993,1208.8213)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima;-inkscape-font-specification:Optima"
+       id="flowRoot8417"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8419"><rect
+           y="379.6875"
+           x="44.844978"
+           height="107.62794"
+           width="655.73322"
+           id="rect8421" /></flowRegion><flowPara
+         id="flowPara8423"><flowSpan
+           style="fill:#000080"
+           id="flowSpan8425">Rational</flowSpan><flowSpan
+           style="fill:#d40000"
+           id="flowSpan8427"> Music</flowSpan><flowSpan
+           style="fill:#000080"
+           id="flowSpan8429"> Studios</flowSpan></flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path8431"
+       d="m 33.882874,1651.2918 c 658.722916,0 657.726366,0.9966 657.726366,0.9966 l -0.99656,0 0,0"
+       style="fill:#000080;stroke:none" />
+    <path
+       style="fill:#d40000;fill-opacity:0.96888888;fill-rule:nonzero;stroke:#000080;stroke-width:1.39517713;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d=""
+       id="path8571"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;fill-opacity:0.96888888;fill-rule:nonzero;stroke:#000080;stroke-width:1.39517713;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d=""
+       id="path8573"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;fill-opacity:0.96888888;fill-rule:nonzero;stroke:#000080;stroke-width:1.39517713;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d=""
+       id="path8577"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;fill-opacity:0.96888888;fill-rule:nonzero;stroke:#000080;stroke-width:1.39517713;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d=""
+       id="path8579"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;fill-opacity:0.96888888;fill-rule:nonzero;stroke:#000080;stroke-width:1.39517713;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d=""
+       id="path8581"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
